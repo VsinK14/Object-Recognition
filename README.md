@@ -18,7 +18,5 @@ library(image.darknet)
      
 
 ## Authors
-
-- [@rithikabadam](https://github.com/rithikabadam)
-- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
+- [@sindhoori-kaza](https://github.com/VsinK14)
 
